@@ -1,0 +1,400 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #cdc8c8;
+    background-image: url(/imagens/pexels-cottonbro-studio-3826433.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1400px 800px;
+}
+    .logo{  
+        padding: 10px auto;   
+    }
+        .logo img{
+            height: 170px;
+            padding-left: 45%   ; 
+        }
+        .logo h1{
+            margin: 5px auto;
+            font-size: 50px;
+            font-family:  'Arial Narrow Bold', sans-serif;
+            text-align: center;
+            text-shadow: 2px 1px 9px #030100;
+            color: #ffffff;
+        }     
+    .coment{
+        padding: 5px 0px;
+        background-color: #bc8248;
+        box-shadow: inset 3px 5px 50px 5px rgba(0, 0, 0, 0.476);
+        box-shadow:1px 1px 4px #000000;
+    }
+        .coment p{
+            font-family: Arial;
+            font-size: 25px ;
+            font-style:normal;
+            text-align: center;
+            text-shadow: 2px 3px 4px #2c1702;
+            color: #ffffff;
+        }
+    .menu{
+        margin: 2% 38%;
+        padding: 1% 2%;
+        box-shadow:  2px 3px 4px #000000;
+        background-color: #56330f;
+        border-radius: 6%;
+        } 
+        .menu:hover{
+            background-color: #633d18;
+            cursor: pointer;
+        }
+            .menu a{
+                margin: 2px 35%;
+                padding: 8px auto;
+                font-family: Arial;
+                font-size: 40px;
+                text-decoration: none;
+                text-shadow: 2px 3px 4px #02010062;
+                color: #e2dfdd;
+            }
+    .contact{
+        margin: 1% 38%  ;
+    }
+        .contact li{
+            margin: px auto;
+            display: flex;
+            padding: 7px 4px;
+            text-align: center;               
+        }
+            .contact li:hover {
+                background-color: #603c18;
+                
+            }
+        .contact-1{
+            margin: 4% 3% ; 
+            box-shadow: 2px 3px 4px #000000;
+            background-color: #bc8248;
+            border-radius: 6%;
+        }    
+            .contact-1 img{
+                margin-left: 15%;
+                width: 25px;
+            }
+                .contact-1 a{
+                    margin: auto;
+                    padding-left: 10px;
+                    font-family: Arial;
+                    font-size: 25px;
+                    color: #f6f6f6;
+                    text-decoration: none;
+                    text-shadow: 1px 2px 4px #2c1702;
+                }            
+        .contact-2{
+            margin: 4% 4%;
+            box-shadow: 2px 3px 4px #2c1702;
+            background-color: #bc8248;
+            border-radius: 6%;
+        
+            
+        }
+            .contact-2 img{
+                margin-left: 12%;
+                width: 25px;
+            }
+                .contact-2 a{
+                    margin: auto;
+                    padding-left: 8px;
+                    font-family: Arial;
+                    font-size: 25px;
+                    color: #fcfcfc;
+                    text-decoration: none;
+                    text-shadow: 1px 2px 4px #2c1702;
+                }             
+        footer{
+            margin: 20px 0;
+            padding: 15px 0;
+            height: 2vh;
+            width: 98.9vw;
+            position: absolute;
+            display: block;
+            background-color: #00000060;
+            box-shadow: 1px 1px 10px #000;
+            
+        }
+        h1{
+            color: #ffffff;
+            font-size: 14px;
+            font-family: 'Times New Roman';
+            font-style: italic;
+            text-shadow: 1px 1px 5px #000;
+            display: flex;
+            justify-content: center;
+        }
+        a{
+            text-decoration: none;
+            color: #c78d53;
+        }
+ @media screen and (max-width: 1024px)
+{
+                        
+body{
+    background-size: 100% 140% ;
+}
+    
+    .logo img{
+        height: 150px;
+        padding-left: 40%;                            
+    }
+    .logo h1{
+        font-size: 50px;
+        padding-right: 1%;
+    }
+    .coment p{
+        font-size: 20px ;
+    }
+    .menu{
+        margin: 2% 38%;
+        padding: 1% 0%;
+    } 
+            .menu a{
+                margin: 2px 30%;
+                padding: 8px auto;
+                font-size: 40px;
+            }         
+    .contact{
+        margin: 2% 38%  ;
+    }
+            
+}
+
+      
+@media screen and (max-width: 992px)
+{
+
+body{
+    background-size: 100% 250% ;
+}
+    
+    .logo img{
+        height: 155px;
+        padding-left: 38%;
+                           
+    }
+    .logo h1{
+        font-size: 50px;
+        padding-right: 3%;
+    }
+    .coment p{
+        font-size: 20px ;
+    }
+    .menu{
+        margin: 5% 35%;
+        padding: 1% 0%;
+    } 
+            .menu a{
+                margin: 2px 30%;
+                padding: 8px auto;
+                font-size: 40px;
+            }
+    .contact{
+        margin: 2% 35%  ;
+    }
+}
+@media screen and (max-width: 820px)
+{
+body{
+    background-size: 100% 250% ;
+}
+    .logo img{
+        height: 150px;
+        padding-left: 37%;
+                           
+    }
+    .logo h1{
+        font-size: 50px;
+        padding-right: 3%;
+    }
+    .coment p{
+        font-size: 20px ;
+    }
+    .menu{
+        margin: 5% 35%;
+        padding: 1% 0%;
+    } 
+            .menu a{
+                margin: 5px 32%;
+                padding: 8px auto;
+                font-size: 40px;
+            }
+    .contact{
+        margin: 2% 35% ;
+    }
+}
+
+@media screen and (max-width: 768px)
+{
+body{
+    background-size: 100% 190%;
+}
+    .logo img{
+        height: 100px;
+        padding-left: 43%;
+               
+    }
+    .logo h1{
+        font-size: 30px;
+        padding-right: 3%;
+    }
+    .coment p{
+        font-size: 20px;
+        }
+    .menu{
+        margin: 5% 35;
+        padding: 1% 0%;
+    } 
+            .menu a{
+                margin: 5px 32%;
+                padding: 8px auto;
+                font-size: 37px;
+            }
+    .contact{
+        margin: 2% 35%  ;
+    }
+        .contact-1 img{
+            margin-left: 3%;
+            width: 25px;
+        }
+        .contact-1 img{
+            margin-left: 3%;
+            width: 25px;
+        }
+}
+
+@media screen and (max-width: 600px)
+{
+body{
+    background-size: 100% 220%;
+}
+    .logo img{
+        height: 110px;
+        padding-left: 36%;
+               
+    }
+    .logo h1{
+        font-size: 30px;
+        padding-right: 3%;
+    }
+    .coment p{
+        font-size: 20px ;
+    }
+    .menu{
+        margin: 5% 30%;
+        padding: 1% 0%;
+    } 
+            .menu a{
+                margin: 5px 32%;
+                padding: 8px auto;
+                font-size: 37px;
+            }
+    .contact{
+        margin: 2% 30%  ;
+    }
+}
+@media screen and (max-width: 480px)
+{
+
+    .logo img{
+        height: 100px;
+        padding-left: 41%;
+               
+    }
+    .logo h1{
+        font-size: 30px;
+        padding-right: 0%;
+    }
+    .coment p{
+        font-size: 20px ;
+    }
+    
+    .menu{
+        margin: 4% 28%;
+        padding: 1% 0%;
+    } 
+            .menu a{
+                margin: 5px 32%;
+                padding: 10px auto;
+                font-size: 30px;
+            }
+    .contact{
+        margin: 2% 30%;
+    }
+        .contact-1 a{
+            font-size: 23px;
+        }
+        .contact-2 a{
+            font-size: 23px;
+        }
+}
+@media screen and (max-width: 414px)
+{
+    .logo img{
+        height: 120px;
+        padding-left: 37%;
+               
+    }
+    .logo h1{
+        font-size: 30px;
+        padding-right: 0%;
+    }
+    .coment p{
+        font-size: 17px ;
+    }
+    .menu{
+        margin: 5% 20%;
+        padding: 1% 0%;
+    } 
+            .menu a{
+                margin: 5px 35%;
+                padding: 8px auto;
+                font-size: 30px;
+            }
+    .contact{
+        margin: 2% 20%;
+    }
+        .contact-1 img{
+            margin-left: 3%;
+            width: 25px;
+        }
+        .contact-2 img{
+            margin-left: 3%;
+            width: 25px;
+        }
+        .contact-1 a{
+            font-size: 23px;
+        }
+        .contact-2 a{
+            font-size: 23px;
+        }
+       
+    
+}
+
+@media screen and (max-width: 360px)
+{
+    .logo img{
+        height: 100px;
+        padding-left: 36%;
+               
+    }
+    .logo h1{
+        font-size: 25px;
+        padding-right: 3%;
+    }
+    .coment p{
+        font-size: 15px ;
+    }
+}
+    
