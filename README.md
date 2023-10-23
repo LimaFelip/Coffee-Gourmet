@@ -8,9 +8,12 @@ Web site de cardapio simples.
 ## Tecnologias Usadas
 * HTML
 * CSS
+
+
+## Links
  
-### acesse o site
+* Acesse o site
 https://limafelip.github.io/Coffee-Gourmet/
 
-### Baixe o repositório zip ou clone (todos os arquivos necessários estão incluídos)
+* Baixe o repositório zip ou clone (todos os arquivos necessários estão incluídos)
 https://github.com/LimaFelip/Coffee-Gourmet/archive/refs/heads/main.zip
