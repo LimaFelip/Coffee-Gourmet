@@ -3,7 +3,7 @@ Meu primeiro projeto está em desenvolvimento para exercicios de responsividade.
 
 ## Coffee-Gourmet
 Web site de cardapio simples.
- *compatível com dispositivos móveis.
+ * compatível com dispositivos móveis.
  
 ## Tecnologias Usadas
 * HTML
