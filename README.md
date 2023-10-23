@@ -9,6 +9,8 @@ Web site de cardapio simples.
 * HTML
 * CSS
  
-<a>hef="https://limafelip.github.io/Coffee-Gourmet/"Acessar o site Coffe Gourmet</a> 
-Baixe o repositório zip ou clone (todos os arquivos necessários estão incluídos)
+### acesse o site
+https://limafelip.github.io/Coffee-Gourmet/
+
+### Baixe o repositório zip ou clone (todos os arquivos necessários estão incluídos)
 https://github.com/LimaFelip/Coffee-Gourmet/archive/refs/heads/main.zip
