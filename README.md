@@ -1,5 +1,5 @@
 # Introdução
-Meu Primeiro Projeto está em desenvolvimento para exercicios de responsividade.
+Meu primeiro projeto está em desenvolvimento para exercicios de responsividade.
 
 ## Coffee-Gourmet
 Web site de cardapio simples.
