@@ -13,7 +13,7 @@ Web site de cardapio simples.
 ## Links
  
 * Acesse o site
-https://limafelip.github.io/Coffee-Gourmet/
+ <a href="https://limafelip.github.io/Coffee-Gourmet/" target="_blank" rel="external">
 
 * Baixe o repositório zip ou clone (todos os arquivos necessários estão incluídos)
 https://github.com/LimaFelip/Coffee-Gourmet/archive/refs/heads/main.zip
