@@ -389,8 +389,11 @@ body{
 
 @media screen and (max-width: 360px)
 {
+    body{
+        background-size: 150% 100%;
+    }
     .logo img{
-        height: 100px;
+        height: 90px;
         padding-left: 36%;
                
     }
@@ -399,7 +402,23 @@ body{
         padding-right: 3%;
     }
     .coment p{
-        font-size: 15px ;
+        font-size: 16px ;
+    }
+    footer{
+        margin: 44% auto;
+        height: 6vh;
+    }
+    h1{
+        margin: 0;
+        padding: 2% 0;
+       
+        font-size: 14px;
+        
+    
+    }
+    a{
+        text-decoration: none;
+        color: #c78d53;
     }
 }
     
