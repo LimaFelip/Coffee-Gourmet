@@ -3,8 +3,10 @@
     padding: 0;
 }
 body{
-    margin: 2% 0;
+    margin: 3% 0;
     padding: 0;
+    height: 100vh;
+    width: 100vw;
     background-color: #cdc8c8;
     background-image: url(./imagens/pexels-cottonbro-studio-3826433.png);
     background-repeat: no-repeat;
@@ -27,7 +29,9 @@ body{
             color: #ffffff;
         }     
     .coment{
+        margin: 3% 0;
         padding: 5px 0px;
+        width: 100vw;
         background-color: #bc8248;
         box-shadow: inset 3px 5px 50px 5px rgba(0, 0, 0, 0.476);
         box-shadow:1px 1px 4px #000000;
@@ -41,7 +45,7 @@ body{
             color: #ffffff;
         }
     .menu{
-        margin: 2% 38%;
+        margin: 0 38%;
         padding: 1% 2%;
         box-shadow:  2px 3px 4px #000000;
         background-color: #56330f;
@@ -74,7 +78,7 @@ body{
                 
             }
         .contact-1{
-            margin: 4% 3% ; 
+            margin: 0 3% ; 
             box-shadow: 2px 3px 4px #000000;
             background-color: #bc8248;
             border-radius: 6%;
@@ -93,7 +97,7 @@ body{
                     text-shadow: 1px 2px 4px #2c1702;
                 }            
         .contact-2{
-            margin: 4% 4%;
+            margin: 5% 4%;
             box-shadow: 2px 3px 4px #2c1702;
             background-color: #bc8248;
             border-radius: 6%;
@@ -114,24 +118,25 @@ body{
                     text-shadow: 1px 2px 4px #2c1702;
                 }             
         footer{
-            margin: 20px 0;
-            padding: 15px 0;
-            height: 2vh;
-            width: 98.9vw;
+            margin: 1% auto;
+            padding: 5% auto;
             position: absolute;
-            display: block;
+            height: 8vh;
+            width: 100vw;
             background-color: #00000060;
             box-shadow: 1px 1px 10px #000;
             
         }
         h1{
+            margin: 0;
+            padding: 1% 0;
             color: #ffffff;
             font-size: 14px;
             font-family: 'Times New Roman';
             font-style: italic;
             text-shadow: 1px 1px 5px #000;
-            display: flex;
-            justify-content: center;
+            text-align: center;
+        
         }
         a{
             text-decoration: none;
