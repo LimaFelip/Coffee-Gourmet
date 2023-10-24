@@ -16,4 +16,4 @@ Web site de cardapio simples.
  <a href="https://limafelip.github.io/Coffee-Gourmet/" target="_blank" rel="external">Coffe Goumet</a>
 
 * Baixe o repositório zip ou clone (todos os arquivos necessários estão incluídos)
- <a href="https://github.com/LimaFelip/Coffee-Gourmet/archive/refs/heads/main.zip" target="_blank" rel="external">Dowload</a>
+ <a href="https://github.com/LimaFelip/Coffee-Gourmet/archive/refs/heads/main.zip" target="_blank" rel="external">Download</a>
