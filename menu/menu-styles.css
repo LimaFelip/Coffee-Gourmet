@@ -9,8 +9,9 @@ body{
     background-color: #8b8a8a;
     background-image: url(../imagens/pexels-cottonbro-studio-3826433.png);
     background-repeat: no-repeat;
+    background-attachment: fixed;
     background-position: center;
-    background-size: 1400px 800px;
+    background-size: 100vw 130vh;
 }
     header{
         padding: 5px;
